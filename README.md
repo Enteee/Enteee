@@ -1,6 +1,3 @@
-<h1 align="center">Aloha 👋, I'm Enteee</h1>
-<h3 align="center">I like code</h3>
-
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
