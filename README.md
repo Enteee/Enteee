@@ -26,5 +26,3 @@
 <a href="https://stackoverflow.com/users/3215929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3215929" height="30" width="40" /></a>
 <a href="https://duckpond.ch/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://duckpond.ch/feed.xml" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enteee&show_icons=true&locale=en" alt="enteee" /></p>
