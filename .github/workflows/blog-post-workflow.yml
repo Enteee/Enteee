@@ -14,3 +14,6 @@ jobs:
         with:
           feed_list: "https://duckpond.ch/feed.xml"
           max_post_count: 10
+          template: "$date $title $newline $description"
+          date_format: "UTC:ddd mmm dd yyyy"
+          description_max_length: 50
