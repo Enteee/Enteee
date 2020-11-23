@@ -7,6 +7,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Count Beta Release](https://duckpond.ch/count/2020/10/19/count-beta-release.html)
+- [Disable reMarkable Touchscreen with evkill](https://duckpond.ch/evkill/bash/2020/08/10/disable-reMarkable-touchscreen-with-evkill.html)
+- [Support Binary File Objects with pandas.DataFrame.to_csv](https://duckpond.ch/python/bash/2020/05/07/support-binary-file-objects-with-pandas.dataframe.to_csv.html)
+- [Citation Needed](https://duckpond.ch/citation%20needed/2020/05/02/citation-needed.html)
+- [Types for PlantUML Parser](https://duckpond.ch/plantuml-parser/javascript/2020/02/25/types-for-plantuml-parser.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Lastest StackOverflow activity
