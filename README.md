@@ -1,4 +1,4 @@
-### Blog
+#### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Count Beta Release](https://duckpond.ch/count/2020/10/19/count-beta-release.html)
