@@ -1,9 +1,6 @@
 <h1 align="center">Aloha 👋, I'm Enteee</h1>
 <h3 align="center">I like code</h3>
 
-- 📝 I regulary write articles on [https://duckpond.ch](https://duckpond.ch)
-- 📝 I regulary write articles on [https://duckpond.ch](https://duckpond.ch)
-
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
