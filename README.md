@@ -1,13 +1,3 @@
 #### Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->Sun Oct 18 2020 Count Beta Release 
- <p>During COVID-19 times it is vital that we don’t...Sun Aug 09 2020 Disable reMarkable Touchscreen with evkill 
- <p><a href="https://github.com/Enteee/evkill"><cod...Wed May 06 2020 Support Binary File Objects with pandas.DataFrame.to_csv 
- <p><code class="language-plaintext highlighter-rou...Fri May 01 2020 Citation Needed 
- <p><img src="/static/posts/citation-needed/xkcd_pr...Mon Feb 24 2020 Types for PlantUML Parser 
- <p><a href="https://github.com/Enteee/plantuml-par...Tue Jan 07 2020 reMarkable 
- <p>I got my <a href="https://remarkable.com/">reMa...Thu Nov 07 2019 Citation Needed 
- <p><img src="/static/posts/citation-needed/xkcd_pr...Thu Oct 24 2019 udev Rule Script Template 
- <p>When writing shell scripts invoked by udev rule...Sun Jul 07 2019 Migrate a git Repository with Submodules 
- <p>With <a href="https://hub.docker.com/r/enteee/g...Sun May 26 2019 Citation Needed 
- <p><img src="/static/posts/citation-needed/xkcd_pr...<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->* `18 Oct`: [Count Beta Release](https://duckpond.ch/count/2020/10/19/count-beta-release.html) - <p>During COVID-19 times it is vital that we don’t...* `09 Aug`: [Disable reMarkable Touchscreen with evkill](https://duckpond.ch/evkill/bash/2020/08/10/disable-reMarkable-touchscreen-with-evkill.html) - <p><a href="https://github.com/Enteee/evkill"><cod...* `06 May`: [Support Binary File Objects with pandas.DataFrame.to_csv](https://duckpond.ch/python/bash/2020/05/07/support-binary-file-objects-with-pandas.dataframe.to_csv.html) - <p><code class="language-plaintext highlighter-rou...* `01 May`: [Citation Needed](https://duckpond.ch/citation%20needed/2020/05/02/citation-needed.html) - <p><img src="/static/posts/citation-needed/xkcd_pr...* `24 Feb`: [Types for PlantUML Parser](https://duckpond.ch/plantuml-parser/javascript/2020/02/25/types-for-plantuml-parser.html) - <p><a href="https://github.com/Enteee/plantuml-par...* `07 Jan`: [reMarkable](https://duckpond.ch/nix/bash/2020/01/08/reMarkable.html) - <p>I got my <a href="https://remarkable.com/">reMa...* `07 Nov`: [Citation Needed](https://duckpond.ch/citation%20needed/2019/11/08/citation-needed.html) - <p><img src="/static/posts/citation-needed/xkcd_pr...* `24 Oct`: [udev Rule Script Template](https://duckpond.ch/bash/nix/2019/10/25/udev-rule-script-template.html) - <p>When writing shell scripts invoked by udev rule...* `07 Jul`: [Migrate a git Repository with Submodules](https://duckpond.ch/git-submodule-url-rewrite/git-sync-mirror/2019/07/08/migrate-a-git-repository-with-submodules.html) - <p>With <a href="https://hub.docker.com/r/enteee/g...* `26 May`: [Citation Needed](https://duckpond.ch/citation%20needed/2019/05/27/citation-needed.html) - <p><img src="/static/posts/citation-needed/xkcd_pr...<!-- BLOG-POST-LIST:END -->
