@@ -22,11 +22,3 @@
 - [Answer by Ente for Run script in series with input from seq](https://stackoverflow.com/questions/62646893/run-script-in-series-with-input-from-seq/62646952#62646952)
 - [Answer by Ente for IndentationError: unindent does not match any outer indentation level while dividing](https://stackoverflow.com/questions/62372924/indentationerror-unindent-does-not-match-any-outer-indentation-level-while-divi/62373135#62373135)
 <!-- STACKOVERFLOW:END -->
-
-### Connect with me
-
-<p align="left">
-<a href="https://twitter.com/enteeeeeee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="enteeeeeee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/3215929" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3215929" height="30" width="40" /></a>
-<a href="https://duckpond.ch/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://duckpond.ch/feed.xml" height="30" width="40" /></a>
-</p>
