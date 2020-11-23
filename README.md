@@ -12,13 +12,3 @@
 - [Migrate a git Repository with Submodules](https://duckpond.ch/git-submodule-url-rewrite/git-sync-mirror/2019/07/08/migrate-a-git-repository-with-submodules.html)
 - [Citation Needed](https://duckpond.ch/citation%20needed/2019/05/27/citation-needed.html)
 <!-- BLOG-POST-LIST:END -->
-
-### Lastest StackOverflow activity
-
-<!-- STACKOVERFLOW:START -->
-- [Answer by Ente for How to remove a file including its history (removing history is important) from master branch where I don't have force push permission?](https://stackoverflow.com/questions/63123653/how-to-remove-a-file-including-its-history-removing-history-is-important-from/63124290#63124290)
-- [Answer by Ente for Why is a point not moving when plotting using FuncAnimation?](https://stackoverflow.com/questions/63061594/why-is-a-point-not-moving-when-plotting-using-funcanimation/63062343#63062343)
-- [Answer by Ente for Why do I get a "foo: not found" error whe assigning a variable?](https://stackoverflow.com/questions/62850222/why-do-i-get-a-foo-not-found-error-whe-assigning-a-variable/62851813#62851813)
-- [Answer by Ente for Run script in series with input from seq](https://stackoverflow.com/questions/62646893/run-script-in-series-with-input-from-seq/62646952#62646952)
-- [Answer by Ente for IndentationError: unindent does not match any outer indentation level while dividing](https://stackoverflow.com/questions/62372924/indentationerror-unindent-does-not-match-any-outer-indentation-level-while-divi/62373135#62373135)
-<!-- STACKOVERFLOW:END -->
