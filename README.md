@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo0
-Fork on GitHub0
 <h1 align="center">Aloha 👋, I'm Enteee</h1>
 <h3 align="center">I like code</h3>
 
